@@ -31,6 +31,12 @@
 Ссылка на [GitHub](https://github.com/)
 
 ## Таблицы
+Создание таблиц:
+
+First Header  | Second Header
+------------- | -------------
+Content Cell  | Content Cell
+Content Cell  | Content Cell
 
 ## Заголовки
 Заголовки пишем через #
