@@ -37,7 +37,7 @@
 
 ## Заключение
 ---
-Test - Puul Request
+Test - Pull Request
 
 ##### Филатов Александр.
 
