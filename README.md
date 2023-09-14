@@ -19,7 +19,10 @@ git push -u origin main.
 4. Перейти в эту ветку . - git checkout 
 5. внести изменения .
 6. добавить и заrоммитить  (git add , git commit)
-7. отправить репозиторий на github 
+7. отправить репозиторий на github -  git push --set-upstream origin branchName
+8. Предложить исправления владельцу оригинального репозитория кнопкой "Compare & pull request" 
+9. Добавить комменарий и нажать "reate pull request"
 
-.
+
+Аминь. ))) 
 
